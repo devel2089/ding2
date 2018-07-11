@@ -30,7 +30,7 @@
 	// AUTH_SERVER defines the name of mysql server for connections and authenticating users
 	// if AUTH_TYPE is set to LOGIN and there is no server defined in configuration (config/servers.php),
 	// then this will be used as default
-	define('AUTH_SERVER', 'ec2-54-83-11-247.compute-1.amazonaws.com');
+	define('AUTH_SERVER', 'localhost|mysql5');
 	// other examples
 	//define('AUTH_SERVER', 'localhost:4040|mysql4');
 	//define('AUTH_SERVER', 'localhost|mysqli');
