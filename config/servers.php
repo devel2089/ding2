@@ -34,7 +34,7 @@
 
 	$SERVER_LIST = array(
 		'Localhost MySQL'           => array(
-		                             'host'     => 'localhost',
+		                             'host'     => '172.30.208.165',
 		                             'driver'   => extension_loaded('mysqli') ? 'mysqli' : 'mysql5'
 		                         ),
 		'SQLite Databases'          => array(
