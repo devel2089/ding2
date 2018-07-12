@@ -44,7 +44,7 @@
 		                             'password' => 'sqlite'  // set this yourself
 		                         ),
  		'Localhost PostgreSQL'     => array(
-		                             'host'     => 'ec2-54-83-11-247.compute-1.amazonaws.com',
+		                             'host'     => 'localhost',
 		                             'driver'   => 'pgsql'
 		                         ),
 		/*'MySQL Proxy Server'  => array(
